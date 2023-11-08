@@ -8,7 +8,7 @@ export default function Home() {
           src="https://antoinerossai-soap-opera.hf.space"
           frameBorder="0"
           width="100%"
-          height="1100vh"
+          height={1100}
       ></IFrame>
     </main>
   )
